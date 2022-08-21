@@ -9,6 +9,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 10%;
 }
 
 /* class world -------------------*/
@@ -37,4 +38,15 @@ section {
     background-image: linear-gradient(orange, tomato);
     padding: 5px 20px;
     border-radius: 3px;
+}
+
+.dream-big {
+    background-image: url(sample/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-bottom: 12%;
+}
+
+#dreambig-intro {
+    width: 85%;
 }
